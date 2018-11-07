@@ -88,7 +88,7 @@ h1, h2, h3, h4 {
 p {
   line-height: 1.5;
 }
-.post, .about1 {
+.post, .about {
   max-width: 800px;
   margin: 0 auto;
   padding: 60px 0;
@@ -100,5 +100,5 @@ p {
   border-radius: 50%
 }
 .post-container:nth-child(even) {
-  background-color: #f2f2f2; 
+  background-color: #f2f2f2;
 }
